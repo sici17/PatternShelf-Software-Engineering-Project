@@ -2,7 +2,7 @@
 
 A Java Swing desktop application for managing a personal collection of books, tracking reading progress, ratings, and statistics. 
 
-> **Academic Note:** This project was developed as part of the **3rd Year Software Engineering Course** for the **Bachelor’s Degree in Computer Science**.
+> **Academic Note:** This project was developed as part of the **3rd Year Software Engineering Course** for the **Bachelor’s Degree in Computer Engineering**.
 
 ---
 
